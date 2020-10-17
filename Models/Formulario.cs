@@ -18,6 +18,9 @@ namespace Practica_1.Models
 
             [Display(Name="Banco")]
         public String Banco { get; set; }
+        
+            [Display(Name="Edad")]
+        public String Edad { get; set; }
 
         [Display(Name="Genero")]
         public String Genero { get; set; }

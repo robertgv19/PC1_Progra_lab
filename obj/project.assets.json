@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Practica_1.csproj",
+      "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Practica_1.csproj",
       "projectName": "Practica_1",
-      "projectPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Practica_1.csproj",
+      "projectPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Practica_1.csproj",
       "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\obj\\",
+      "outputPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config"

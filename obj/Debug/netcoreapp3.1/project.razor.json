@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Practica_1.csproj",
+  "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Practica_1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,43 +14392,43 @@
   "RootNamespace": "Practica_1",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\Formulario\\Index.cshtml",
-      "TargetPath": "Views\\Formulario\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\Formulario\\Index.cshtml",
+      "TargetPath": "Views\\Formulario\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica_1\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PERSONAL\\Desktop\\progra1-lab\\Practica1\\PC1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
