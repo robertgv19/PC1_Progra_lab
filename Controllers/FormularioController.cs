@@ -27,7 +27,7 @@ namespace Practica_1.Controllers
         public IActionResult Registrar(Formulario objFormulario){
             if (ModelState.IsValid)
             {
-                objFormulario.Respuesta ="= Se registro Correctamente al curso de Alumno " +objFormulario.Nombre_Est +" " +objFormulario.Apellido_Est;
+                objFormulario.Respuesta ="= Se registro Correctamente al curso de Alumno ";
             }
             return View("index", objFormulario);
         }
